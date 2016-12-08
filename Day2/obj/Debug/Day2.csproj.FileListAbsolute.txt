@@ -1,0 +1,6 @@
+C:\Users\Scott\Desktop\CodeAdvent\Day2\bin\Debug\Day2.exe.config
+C:\Users\Scott\Desktop\CodeAdvent\Day2\bin\Debug\Day2.exe
+C:\Users\Scott\Desktop\CodeAdvent\Day2\bin\Debug\Day2.pdb
+C:\Users\Scott\Desktop\CodeAdvent\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\CodeAdvent\Day2\obj\Debug\Day2.exe
+C:\Users\Scott\Desktop\CodeAdvent\Day2\obj\Debug\Day2.pdb

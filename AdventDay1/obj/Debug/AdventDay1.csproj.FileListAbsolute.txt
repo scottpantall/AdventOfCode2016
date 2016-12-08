@@ -1,0 +1,6 @@
+C:\Users\Scott\Desktop\CodeAdvent\AdventDay1\bin\Debug\AdventDay1.exe.config
+C:\Users\Scott\Desktop\CodeAdvent\AdventDay1\bin\Debug\AdventDay1.exe
+C:\Users\Scott\Desktop\CodeAdvent\AdventDay1\bin\Debug\AdventDay1.pdb
+C:\Users\Scott\Desktop\CodeAdvent\AdventDay1\obj\Debug\AdventDay1.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\CodeAdvent\AdventDay1\obj\Debug\AdventDay1.exe
+C:\Users\Scott\Desktop\CodeAdvent\AdventDay1\obj\Debug\AdventDay1.pdb
